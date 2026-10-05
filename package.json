@@ -1,0 +1,7 @@
+{
+  "name": "galla-shop-ledger",
+  "private": true,
+  "description": "Daily income and expense tracker for small shop owners",
+  "scripts": { "test": "node tests/ui.test.js" },
+  "devDependencies": { "playwright": "^1.55.0" }
+}
